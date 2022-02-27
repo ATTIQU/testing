@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApiErrorException.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="AuthenticationException.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="ApiConnectionException.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="CardException.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="ExceptionInterface.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="BadMethodCallException.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="InvalidRequestException.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="IdempotencyException.php" server="neelumsoft.com" local="132187178360000000" remote="132252290400000000" Dst="0" />
+<file name="RateLimitException.php" server="neelumsoft.com" local="132187178360000000" remote="132252291000000000" Dst="0" />
+<file name="SignatureVerificationException.php" server="neelumsoft.com" local="132187178360000000" remote="132252291000000000" Dst="0" />
+<file name="PermissionException.php" server="neelumsoft.com" local="132187178360000000" remote="132252291000000000" Dst="0" />
+<file name="UnknownApiErrorException.php" server="neelumsoft.com" local="132187178360000000" remote="132252291000000000" Dst="0" />
+<file name="UnexpectedValueException.php" server="neelumsoft.com" local="132187178360000000" remote="132252291000000000" Dst="0" />
+<file name="InvalidRequestException.php" server="18.132.156.65//var/www/html/" local="132252686990000000" remote="132252686990000000" Dst="0" />
+<file name="CardException.php" server="18.132.156.65//var/www/html/" local="132252686970000000" remote="132252686970000000" Dst="0" />
+<file name="PermissionException.php" server="18.132.156.65//var/www/html/" local="132252687050000000" remote="132252687050000000" Dst="0" />
+<file name="BadMethodCallException.php" server="18.132.156.65//var/www/html/" local="132252686980000000" remote="132252686980000000" Dst="0" />
+<file name="ApiErrorException.php" server="18.132.156.65//var/www/html/" local="132252686960000000" remote="132252686960000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="18.132.156.65//var/www/html/" local="132252686990000000" remote="132252686990000000" Dst="0" />
+<file name="SignatureVerificationException.php" server="18.132.156.65//var/www/html/" local="132252687050000000" remote="132252687050000000" Dst="0" />
+<file name="UnknownApiErrorException.php" server="18.132.156.65//var/www/html/" local="132252687060000000" remote="132252687060000000" Dst="0" />
+<file name="RateLimitException.php" server="18.132.156.65//var/www/html/" local="132252687050000000" remote="132252687050000000" Dst="0" />
+<file name="UnexpectedValueException.php" server="18.132.156.65//var/www/html/" local="132252687070000000" remote="132252687070000000" Dst="0" />
+<file name="IdempotencyException.php" server="18.132.156.65//var/www/html/" local="132252686990000000" remote="132252686990000000" Dst="0" />
+<file name="AuthenticationException.php" server="18.132.156.65//var/www/html/" local="132252686960000000" remote="132252686960000000" Dst="0" />
+<file name="ApiConnectionException.php" server="18.132.156.65//var/www/html/" local="132252686960000000" remote="132252686960000000" Dst="0" />
+<file name="ExceptionInterface.php" server="18.132.156.65//var/www/html/" local="132252686970000000" remote="132252686970000000" Dst="0" />
+<file name="ApiErrorException.php" server="roctopus.neelumsoft.com" local="132252686960000000" remote="132680899200000000" Dst="0" />
+<file name="AuthenticationException.php" server="roctopus.neelumsoft.com" local="132252686960000000" remote="132680899200000000" Dst="0" />
+<file name="ApiConnectionException.php" server="roctopus.neelumsoft.com" local="132252686960000000" remote="132680899200000000" Dst="0" />
+<file name="CardException.php" server="roctopus.neelumsoft.com" local="132252686980000000" remote="132680899200000000" Dst="0" />
+<file name="ExceptionInterface.php" server="roctopus.neelumsoft.com" local="132252686980000000" remote="132680899200000000" Dst="0" />
+<file name="BadMethodCallException.php" server="roctopus.neelumsoft.com" local="132252686980000000" remote="132680899200000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="roctopus.neelumsoft.com" local="132252687000000000" remote="132680899200000000" Dst="0" />
+<file name="InvalidRequestException.php" server="roctopus.neelumsoft.com" local="132252687000000000" remote="132680899200000000" Dst="0" />
+<file name="IdempotencyException.php" server="roctopus.neelumsoft.com" local="132252687000000000" remote="132680899200000000" Dst="0" />
+<file name="PermissionException.php" server="roctopus.neelumsoft.com" local="132252687060000000" remote="132680899200000000" Dst="0" />
+<file name="RateLimitException.php" server="roctopus.neelumsoft.com" local="132252687060000000" remote="132680899200000000" Dst="0" />
+<file name="SignatureVerificationException.php" server="roctopus.neelumsoft.com" local="132252687060000000" remote="132680899200000000" Dst="0" />
+<file name="UnexpectedValueException.php" server="roctopus.neelumsoft.com" local="132252687080000000" remote="132680899200000000" Dst="0" />
+<file name="UnknownApiErrorException.php" server="roctopus.neelumsoft.com" local="132252687060000000" remote="132680899200000000" Dst="0" />
+</dwsync>
